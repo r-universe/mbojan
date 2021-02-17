@@ -43,3 +43,8 @@
 	url = https://github.com/mbojan/netseg
 	shallow = true
 	registered = true
+[submodule "mouter"]
+	path = mouter
+	url = https://github.com/mbojan/mouter
+	shallow = true
+	registered = false
