@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alluvial"]
+	path = alluvial
+	url = https://github.com/mbojan/alluvial
+	shallow = true
+	registered = true
+[submodule "netseg"]
+	path = netseg
+	url = https://github.com/mbojan/netseg
+	shallow = true
+	registered = true

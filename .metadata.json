@@ -1,0 +1,10 @@
+[
+  {
+    "package": "alluvial",
+    "oncran": true
+  },
+  {
+    "package": "netseg",
+    "oncran": true
+  }
+]
