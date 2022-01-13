@@ -1,11 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mbojan/universe
 	shallow = true
 	branch = HEAD
+[submodule "linkprediction"]
+	path = linkprediction
+	url = https://github.com/recon-icm/linkprediction
+	shallow = true
+	registered = true
 [submodule "alluvial"]
 	path = alluvial
 	url = https://github.com/mbojan/alluvial
+	shallow = true
+	registered = true
+[submodule "intergraph"]
+	path = intergraph
+	url = https://github.com/mbojan/intergraph
+	shallow = true
+	registered = true
+[submodule "cranet"]
+	path = cranet
+	url = https://github.com/mbojan/cranet
+	shallow = true
+	registered = true
+[submodule "rgraph6"]
+	path = rgraph6
+	url = https://github.com/mbojan/rgraph6
 	shallow = true
 	registered = true
 [submodule "netseg"]

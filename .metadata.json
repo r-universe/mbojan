@@ -1,7 +1,21 @@
 [
   {
+    "package": "linkprediction",
+    "oncran": true
+  },
+  {
     "package": "alluvial",
     "oncran": true
+  },
+  {
+    "package": "intergraph",
+    "oncran": false
+  },
+  {
+    "package": "cranet"
+  },
+  {
+    "package": "rgraph6"
   },
   {
     "package": "netseg",
