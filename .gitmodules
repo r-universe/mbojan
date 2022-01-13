@@ -8,6 +8,16 @@
 	url = https://github.com/recon-icm/linkprediction
 	shallow = true
 	registered = true
+[submodule "adr"]
+	path = adr
+	url = https://github.com/mbojan/adr
+	shallow = true
+	registered = true
+[submodule "isnar"]
+	path = isnar
+	url = https://github.com/mbojan/isnar
+	shallow = true
+	registered = true
 [submodule "alluvial"]
 	path = alluvial
 	url = https://github.com/mbojan/alluvial

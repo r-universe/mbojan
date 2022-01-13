@@ -4,6 +4,12 @@
     "oncran": true
   },
   {
+    "package": "adr"
+  },
+  {
+    "package": "isnar"
+  },
+  {
     "package": "alluvial",
     "oncran": true
   },
