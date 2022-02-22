@@ -21,7 +21,8 @@
     "package": "cranet"
   },
   {
-    "package": "rgraph6"
+    "package": "rgraph6",
+    "oncran": false
   },
   {
     "package": "netseg",
