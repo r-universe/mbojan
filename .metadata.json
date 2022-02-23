@@ -22,7 +22,7 @@
   },
   {
     "package": "rgraph6",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "netseg",
