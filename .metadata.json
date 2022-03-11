@@ -15,7 +15,7 @@
   },
   {
     "package": "intergraph",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "cranet"
