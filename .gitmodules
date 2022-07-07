@@ -38,6 +38,11 @@
 	url = https://github.com/mbojan/rgraph6
 	shallow = true
 	registered = true
+[submodule "NSUM"]
+	path = NSUM
+	url = https://github.com/mbojan/NSUM
+	shallow = true
+	registered = true
 [submodule "netseg"]
 	path = netseg
 	url = https://github.com/mbojan/netseg

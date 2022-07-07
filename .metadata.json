@@ -25,6 +25,9 @@
     "oncran": true
   },
   {
+    "package": "NSUM"
+  },
+  {
     "package": "netseg",
     "oncran": true
   }
