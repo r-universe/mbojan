@@ -2,34 +2,34 @@
 	path = .registry
 	url = https://github.com/mbojan/universe
 	branch = HEAD
-[submodule "linkprediction"]
-	path = linkprediction
-	url = https://github.com/recon-icm/linkprediction
-[submodule "adr"]
-	path = adr
-	url = https://github.com/mbojan/adr
-[submodule "isnar"]
-	path = isnar
-	url = https://github.com/mbojan/isnar
-[submodule "alluvial"]
-	path = alluvial
-	url = https://github.com/mbojan/alluvial
-[submodule "intergraph"]
-	path = intergraph
-	url = https://github.com/mbojan/intergraph
-[submodule "cranet"]
-	path = cranet
-	url = https://github.com/mbojan/cranet
-[submodule "rgraph6"]
-	path = rgraph6
-	url = https://github.com/mbojan/rgraph6
 [submodule "NSUM"]
 	path = NSUM
 	url = https://github.com/mbojan/NSUM
-[submodule "netseg"]
-	path = netseg
-	url = https://github.com/mbojan/netseg
+[submodule "adr"]
+	path = adr
+	url = https://github.com/mbojan/adr
+[submodule "alluvial"]
+	path = alluvial
+	url = https://github.com/mbojan/alluvial
+[submodule "cranet"]
+	path = cranet
+	url = https://github.com/mbojan/cranet
+[submodule "intergraph"]
+	path = intergraph
+	url = https://github.com/mbojan/intergraph
+[submodule "isnar"]
+	path = isnar
+	url = https://github.com/mbojan/isnar
+[submodule "linkprediction"]
+	path = linkprediction
+	url = https://github.com/recon-icm/linkprediction
 [submodule "mouter"]
 	path = mouter
 	url = https://github.com/mbojan/mouter
 	registered = false
+[submodule "netseg"]
+	path = netseg
+	url = https://github.com/mbojan/netseg
+[submodule "rgraph6"]
+	path = rgraph6
+	url = https://github.com/mbojan/rgraph6
