@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mbojan/universe
+	url = https://github.com/mbojan/mbojan.r-universe.dev
 	branch = HEAD
 [submodule "NSUM"]
 	path = NSUM
