@@ -23,10 +23,6 @@
 [submodule "linkprediction"]
 	path = linkprediction
 	url = https://github.com/recon-icm/linkprediction
-[submodule "mouter"]
-	path = mouter
-	url = https://github.com/mbojan/mouter
-	registered = false
 [submodule "netseg"]
 	path = netseg
 	url = https://github.com/mbojan/netseg
