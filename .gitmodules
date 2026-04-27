@@ -20,6 +20,9 @@
 [submodule "isnar"]
 	path = isnar
 	url = https://github.com/mbojan/isnar
+[submodule "lablah"]
+	path = lablah
+	url = https://github.com/mbojan/lablah
 [submodule "linkprediction"]
 	path = linkprediction
 	url = https://github.com/recon-icm/linkprediction
